@@ -1,0 +1,6 @@
+# Project build directory
+CryptSafe/
+build/
+
+# User config file
+CMakeLists.txt.user
